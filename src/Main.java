@@ -12,10 +12,18 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+
 }
 
 // git config --global user.name "Your name"
-
-
-
 // git config --global user.email "Your email@example.com
+
+//git init - делаем 1 раз, если ещё нету git в нашем проекте
+//git add * - * добавить все файлы в commit или пишем названия файлов
+//git commit -m "first commit" - наш commit
+//git branch -M main - название ветки
+//git remote add origin [URL адрес вашего репозитория] - куда отправлять изменения (в какое хранилище)
+//git push -u origin main - отправляем изменения
+
+// ссылка на синтаксис README.md - https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
